@@ -8,17 +8,17 @@ Compiled with geant4.10.7.p03 (geant4.10.7.03), ROOT 6.24, and make v4. See opti
 
 ![Image of vertical fibre.](https://github.com/SporadicAnyonsInhabitGregariousAsylums/LMOopticalphoton/blob/ModularProj/imgs/options.JPG)
 
-	Just run, after editing your GNUmakefile (G4INSTALL absolute path for where your Geant4 installation is located on your machine!), and cding to the main directory (where the GNUmakefile is):
+Just run, after editing your GNUmakefile (G4INSTALL absolute path for where your Geant4 installation is located on your machine!), and cding to the main directory (where the GNUmakefile is):
 	make
 	LDsensitive
-	(graphical)
+(graphical)
 	
-	or 
+or 
 	make
 	LDsensitive -m LDsensitive.mac
-	(no graphical interface)
+(no graphical interface)
 	
-	Note that you can also capture console output with "&> filename" (without quotes) appended to the command after make.
+Note that you can also capture console output with "&> filename" (without quotes) appended to the command after make.
 	
 	TODO: change the filename and such!
 
