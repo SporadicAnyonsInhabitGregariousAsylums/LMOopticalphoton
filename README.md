@@ -8,7 +8,7 @@ Compiled with geant4.10.7.p03 (geant4.10.7.03), ROOT 6.24, and make v4. See opti
 
 ![Image of vertical fibre.](https://github.com/SporadicAnyonsInhabitGregariousAsylums/LMOopticalphoton/blob/ModularProj/imgs/options.JPG)
 
-	Just run, after editing your GNUmakefile (G4INSTALL path for where your Geant4 installation!):
+	Just run, after editing your GNUmakefile (G4INSTALL absolute path for where your Geant4 installation is located on your machine!):
 	make
 	LDsensitive
 	(graphical)
