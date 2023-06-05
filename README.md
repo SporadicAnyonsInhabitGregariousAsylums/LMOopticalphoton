@@ -5,9 +5,20 @@ Note: hardware troubles, so the repo is _not_ in a polished state currently.
 
 
 Compiled with geant4.10.7.p03 (geant4.10.7.03), ROOT 6.24, and make v4. See options:
+
 ![Image of vertical fibre.](https://github.com/SporadicAnyonsInhabitGregariousAsylums/LMOopticalphoton/blob/ModularProj/imgs/options.JPG)
 
-	TODO: add compiler options!
+	Just run, after editing your GNUmakefile (G4INSTALL path for where your Geant4 installation!):
+	make
+	LDsensitive
+	(graphical)
+	
+	or 
+	make
+	LDsensitive -m LDsensitive.mac
+	(no graphical interface)
+	
+	TODO: change the filename and such!
 
 
 
