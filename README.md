@@ -18,7 +18,7 @@ Compiled with geant4.10.7.p03 (geant4.10.7.03), ROOT 6.24, and make v4. See opti
 	LDsensitive -m LDsensitive.mac
 	(no graphical interface)
 	
-	Note that you can also capture console output with "&> filename" (without quotes) appended to the command.
+	Note that you can also capture console output with "&> filename" (without quotes) appended to the command after make.
 	
 	TODO: change the filename and such!
 
