@@ -4,7 +4,8 @@
 Note: hardware troubles, so the repo is _not_ in a polished state currently.
 
 
-Compiled with geant4.10.7.p03 (not yet tested with "geant4.10.7.03").
+Compiled with geant4.10.7.p03 (geant4.10.7.03), ROOT 6.24, and make v4. See options:
+![Image of vertical fibre.](https://github.com/SporadicAnyonsInhabitGregariousAsylums/LMOopticalphoton/blob/ModularProj/imgs/options.JPG)
 
 	TODO: add compiler options!
 
